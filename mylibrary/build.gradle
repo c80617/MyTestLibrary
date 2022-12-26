@@ -8,11 +8,11 @@ group = 'com.github.c80617'
 
 android {
     namespace 'com.example.mylibrary'
-    compileSdk 31
+    compileSdk 32
 
     defaultConfig {
         minSdk 26
-        targetSdk 31
+        targetSdk 32
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         consumerProguardFiles "consumer-rules.pro"

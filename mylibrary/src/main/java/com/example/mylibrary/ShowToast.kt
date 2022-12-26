@@ -5,8 +5,8 @@ import android.widget.Toast
 
 class ShowToast {
     fun showMessage(context:Context,msg:String){
-        Toast.makeText(context, msg, Toast.LENGTH_LONG).show()
-        Toast.makeText(context, "lalalalalallalalala~~~~", Toast.LENGTH_LONG).show()
+        Toast.makeText(context, msg, Toast.LENGTH_SHORT).show()
+        Toast.makeText(context, "==============================", Toast.LENGTH_SHORT).show()
     }
 
 }
