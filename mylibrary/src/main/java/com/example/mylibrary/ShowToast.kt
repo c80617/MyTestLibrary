@@ -8,5 +8,4 @@ class ShowToast {
         Toast.makeText(context, msg, Toast.LENGTH_SHORT).show()
         Toast.makeText(context, "==============================", Toast.LENGTH_SHORT).show()
     }
-
 }

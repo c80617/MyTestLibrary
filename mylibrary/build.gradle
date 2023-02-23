@@ -3,7 +3,6 @@ plugins {
     id 'org.jetbrains.kotlin.android'
 }
 apply plugin: 'maven-publish'
-
 group = 'com.github.c80617'
 
 android {
